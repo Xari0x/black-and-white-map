@@ -14,6 +14,8 @@ Below are links to the original maps.
 **Original (Cayo Perico):** [Cayo-Perico Island Color Minimap](https://forum.cfx.re/t/exclusivity-cayo-perico-island-color-minimap/2003927)
 ![image_cayoperico|500x500](https://forum-cfx-re.akamaized.net/original/5X/8/5/2/3/85237f536c7fcb6c4a50fe3994d74cf0afaec237.jpeg)
 
+>**PS: Thanks to [D3TheThird](https://forum.cfx.re/u/D3TheThird/activity) for his modified version of Cayo Perico with postal codes! Have a look!**
+[[FREE] [MAP] Cayo Perico Dark Postal Code Map](https://forum.cfx.re/t/free-map-cayo-perico-dark-postal-code-map/5238566)
 
 There's also a version with the Cayo Perico bridge. For this, of course, you need the associated MLO, which I invite you to have a look at below!
 
